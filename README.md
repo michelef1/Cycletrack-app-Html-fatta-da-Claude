@@ -1,4 +1,4 @@
-# CycleTrack — Pubblicazione su GitHub Pages + APK con PWABuilder
+# CycleTrack — Pubblicazione su GitHub Pages + APK con PWABuilder (da html a apk)
 
 Questa cartella contiene tutto il necessario:
 - `index.html` — l'app
